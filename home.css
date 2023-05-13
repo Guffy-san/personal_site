@@ -1,0 +1,24 @@
+
+.main{
+    height: 100vh;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    /* padding-left: 50px; */
+    /* padding-right: 50px; */
+    /* margin:0  20px; */
+}
+.circle{
+    background-color: #000;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    
+}
+.discription{
+    background-color: purple;
+    height: 50%;
+    width: 30%;
+}
